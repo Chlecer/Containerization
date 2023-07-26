@@ -46,8 +46,8 @@ So, whether you're a giant corporation or a small startup, join the containeriza
 
 You can check more related content at:
 
-[Cupcake Containerization Adventure!](cupcake-containerization-adventure.md) if you want to understand in easy way how it works.
+[Cupcake Containerization Adventure!](contents/cupcake-containerization-adventure.md) if you want to understand in easy way how it works.
 
-[Kubernetes and Docker: Independent Yet Complementary](docker-and-k8s.md) if you want to understand what is the relation between Docker and K8s.
+[Kubernetes and Docker: Independent Yet Complementary](contents/docker-and-k8s.md) if you want to understand what is the relation between Docker and K8s.
 
-[Kubernetes, Docker Swarm, and Docker: A Trio of Container Orchestration](docker-swarm-and-k8s.md) if you don't know what is docker swarm and how it's related to the previous content.
+[Kubernetes, Docker Swarm, and Docker: A Trio of Container Orchestration](contents/docker-swarm-and-k8s.md) if you don't know what is docker swarm and how it's related to the previous content.
