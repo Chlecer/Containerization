@@ -1,0 +1,6 @@
+# Docker
+## If you want to save all your local images to only a tar (size optimized if we have some common  layers)
+docker save $(docker images --format "{{.Repository}}:{{.Tag}}" | awk '{printf("%s ",$0)}') -o all_images.tar
+
+## Load this tar on another machine (local docker repository) 
+docker load -i all_images.tar
